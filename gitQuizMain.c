@@ -11,6 +11,7 @@ int main(void)
         printf("You know how to use Git!");
     }
     else
+    // new branch line
 
     printf("\n");
 
